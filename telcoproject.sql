@@ -100,8 +100,6 @@ group by online_security
 -- #4 
 select * from customerstatus
 
-
-
 -- CREATE TABLE statement for Customer Churn table
 
 CREATE TABLE Customer_Churn (
